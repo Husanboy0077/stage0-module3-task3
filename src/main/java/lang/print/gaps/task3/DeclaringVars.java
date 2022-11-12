@@ -7,7 +7,8 @@ public class DeclaringVars {
         a=10;
         b=1;
         c=0;
-
+        System.out.println(a);
+        System.out.println(b);
         System.out.println(c);
     }
 }
